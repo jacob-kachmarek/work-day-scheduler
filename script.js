@@ -1,3 +1,4 @@
+//This makes sure that all dom elements are loaded before executing any of these functions
 $(document).ready(function () {
   var saveButtons = document.querySelectorAll('button');
   var currentHour = dayjs().hour();

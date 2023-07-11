@@ -1,10 +1,11 @@
 # work-day-scheduler
 
 ## Technology Used 
-N/A
+Jquery <br>
+Dayjs
   
 ## Description 
-You can visit the deployed site [here.]()<br> Here is a picture of the deployed website.<br>![Picture of website]()
+A simple day scheduler app. You are able to input text and save that text to the app in time blocks that you see necessary. As time passes during the day the color of the time block will change based on the current time if the time has already happened or if it is going to happen. You can visit the deployed site [here.](https://jacob-kachmarek.github.io/work-day-scheduler/)<br> Here is a picture of the deployed website.<br>![Picture of website](./Assets/Work%20Day%20scheduler%202023-07-11%20145650.png)
 
 ## Installation
 N/A 
