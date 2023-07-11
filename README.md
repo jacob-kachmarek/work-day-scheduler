@@ -11,7 +11,7 @@ A simple day scheduler app. You are able to input text and save that text to the
 N/A 
 
 ## Usage 
-
+Very simple app to use. If you have something to do in a specific hour write it into the text area provided and click the save icon to the right of the time block you want to save it to. Once saved you can reference this throughout your day as needed.
 
 ## Learning Points 
 N/A
